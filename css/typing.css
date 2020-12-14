@@ -1,0 +1,29 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.6rem;
+}
+
+#target {
+  margin: 20px;
+  font-size: 2rem;
+  letter-spacing: 1rem;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 40px;
+}
+/*# sourceMappingURL=typing.css.map */
